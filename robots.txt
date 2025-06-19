@@ -3,4 +3,3 @@ Sitemap: https://zeliha.sekmen.dev/sitemap.xml
 
 User-agent: *
 Allow: /
-Disallow: /404/
